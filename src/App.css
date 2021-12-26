@@ -1,0 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.801),rgba(0, 0, 0, 0.815)), url(../src/images/mue.jpg); 
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}

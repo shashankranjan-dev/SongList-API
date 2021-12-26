@@ -1,0 +1,13 @@
+.title{
+    color: rgb(217, 255, 0);
+    margin: 16vh;
+    text-align: center;
+}  
+.title h1{
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 50px;
+    -webkit-box-reflect: linear-gradient(transparent,rgba(29, 29, 29, 0.533));
+		animation: animate 8s linear infinite;
+}
+

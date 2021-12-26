@@ -1,0 +1,35 @@
+h2 {
+  font-size: 30px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 300;
+  padding-left: 40vh;
+  margin-bottom: 3.5vh;
+}  
+table {
+  width: 100%;
+  table-layout: fixed;
+}
+.tbl-header {
+  background-color: rgba(0, 174, 255, 0.3);
+}
+.tbl-content {
+  overflow-x: auto;
+  margin-bottom:40px;
+  background-color: rgb(0, 113, 128);
+}
+th {
+  padding: 3vh 5vh;
+  text-align: center;
+  font-weight: bold;
+  font-size: 23px;
+  color: rgb(0, 225, 255);
+  text-transform: uppercase;
+}
+td {
+  padding: 1.5vh 3vh;
+  /*text-align: center */;
+  font-weight: bold;
+  font-size: 23px;
+  color: rgb(0, 255, 21);
+}
